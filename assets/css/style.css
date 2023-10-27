@@ -190,13 +190,13 @@ body {
 
 .position-absolute6 {
   position: absolute;
-  top: 54%;
+  top: 40%;
   left: -22%;
 }
 
 .position-absolute7 {
   position: absolute;
-  top: 54%;
+  top: 40%;
   right: -22%;
 }
 
@@ -873,12 +873,6 @@ body {
 }
 
 @media (min-width: 768px) {
-  .line1 {
-    display: block;
-    width: 50%;
-    height: 3px;
-    background: #d0f;
-  }
   .col-md-4 {
     width: 33.33%;
     padding-left: 12px;
@@ -951,6 +945,12 @@ body {
   }
   .pb-39 {
     padding-bottom: 0px;
+  }
+  .line1 {
+    display: block;
+    width: 50%;
+    height: 3px;
+    background: #d0f;
   }
 }
 
