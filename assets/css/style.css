@@ -139,11 +139,11 @@ body {
 }
 
 .pt-115 {
-  padding-top: 115px;
+  padding-top: 60px;
 }
 
 .pb-183 {
-  padding-bottom: 183px;
+  padding-bottom: 140px;
 }
 
 .position-relative {
@@ -320,7 +320,7 @@ body {
 
 .box1-h3-1 {
   color: #fff;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 400;
 }
 
@@ -662,7 +662,7 @@ body {
 }
 
 .pb-153 {
-  padding-bottom: 153px;
+  padding-bottom: 50px;
 }
 
 .footer-h4-bittiesnft {
@@ -783,7 +783,7 @@ body {
 @media (min-width: 576px) {
   .h1-bitties {
     color: #fff;
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 400;
   }
   .text-sec2-button1 {
@@ -795,7 +795,7 @@ body {
   }
   .box1-h3-1 {
     color: #fff;
-    font-size: 38.021px;
+    font-size: 40px;
     font-weight: 400;
   }
   .about-sec-heading {
@@ -876,6 +876,15 @@ body {
   .text-center-footer {
     text-align: start;
   }
+  .pt-115 {
+    padding-top: 115px;
+  }
+  .pb-183 {
+    padding-bottom: 183px;
+  }
+  .pb-153 {
+    padding-bottom: 153px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -883,6 +892,11 @@ body {
     width: 33.33%;
     padding-left: 12px;
     padding-right: 12px;
+  }
+  .h1-bitties {
+    color: #fff;
+    font-size: 70px;
+    font-weight: 400;
   }
 }
 
